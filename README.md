@@ -1,2 +1,2 @@
-# Spotify-Best-Playlist-Creator-
-This is a program that will create a spotify playlist of the best 100 songs of the date of your choice
+# Spotify-Playlist-Creator
+Listening to old songs is one of the best ways to refresh you memory. This program will add the songs of the date of your choice to your spotify playlist.
